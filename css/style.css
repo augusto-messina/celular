@@ -308,6 +308,9 @@ h3, h5 {
     height: 250px;
     width: 100%;
   }
+  .fondo-inicial {
+    background-image: url(../assets/img/fondo-ini/wallpaper-sneakers.jpeg);
+  }
   .desktop {
     display: none;
   }
@@ -334,6 +337,9 @@ h3, h5 {
   .card-img-ropa {
     height: 300px;
     width: 100%;
+  }
+  .fondo-inicial {
+    background-image: url(../assets/img/fondo-ini/wallpaper-sneakers.jpeg);
   }
   .desktop {
     display: none;
