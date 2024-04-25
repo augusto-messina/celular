@@ -24,11 +24,15 @@
 /*zapatillas index*/
 .titulo-zapatillas {
   text-align: center;
+  margin-top: 4.375rem;
   font-size: 30px;
+  display: flex;
+  flex-direction: column;
   color: #B31312;
+  font-family: "Nike", sans-serif;
 }
 
-.card-img-top:hover {
+.card-img-top {
   border-radius: 50px;
   padding: 20px;
 }
@@ -133,10 +137,12 @@ h3, h5 {
 /*zapatillas-pag*/
 .titulo-zapatillas {
   text-align: center;
-  margin-bottom: 20px;
-  margin-top: 10px;
+  margin-top: 4.375rem;
   font-size: 30px;
+  display: flex;
+  flex-direction: column;
   color: #B31312;
+  font-family: "Nike", sans-serif;
 }
 
 .grid-zapatillas-pag {
@@ -164,10 +170,12 @@ h3, h5 {
 /*ropa pag*/
 .titulo-ropa {
   text-align: center;
-  margin-bottom: 20px;
-  margin-top: 10px;
+  margin-top: 4.375rem;
   font-size: 30px;
+  display: flex;
+  flex-direction: column;
   color: #B31312;
+  font-family: "Nike", sans-serif;
 }
 
 .grid-ropa-pagina {
@@ -196,10 +204,12 @@ h3, h5 {
 /*accesorios pag*/
 .titulo-accesorios {
   text-align: center;
-  margin-bottom: 20px;
-  margin-top: 10px;
+  margin-top: 4.375rem;
   font-size: 30px;
+  display: flex;
+  flex-direction: column;
   color: #B31312;
+  font-family: "Nike", sans-serif;
 }
 
 .grid-accesorios-pag {
@@ -369,8 +379,15 @@ h3, h5 {
   width: 100%;
   height: 300px;
 }
+.pie-pagina ul p {
+  font-size: 20px;
+}
 .pie-pagina li {
   list-style: none;
+  font-size: 20px;
+}
+.pie-pagina li a {
+  font-size: 25px;
 }
 .pie-pagina .content-items-footer {
   display: flex;

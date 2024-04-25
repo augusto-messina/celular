@@ -2,10 +2,12 @@
 
 .titulo-zapatillas{
     text-align: center;
-    margin-bottom: 20px;
-    margin-top: 10px;
+    margin-top: 4.375rem;
     font-size: 30px;
+    display: flex;
+    flex-direction: column;
     color: map-get($colores, color1 );
+    font-family: 'Nike', sans-serif;
 }
 
 .grid-zapatillas-pag{
