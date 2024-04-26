@@ -17,20 +17,8 @@
 @import "./layout/fondo-inicial";
 @import "./layout/bootstrap";
 
-@media (max-width: 1024px){
-    @import "./layout/mediaQuerry/media1024";
-}
-
 @media (max-width: 768px){
     @import "./layout/mediaQuerry/media768";
-}
-
-@media (max-width: 425px){
-    @import "./layout/mediaQuerry/media425";
-}
-
-@media (max-width: 375px){
-    @import "./layout/mediaQuerry/media375";
 }
 
 @media (max-width: 320px){
