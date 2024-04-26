@@ -6,10 +6,6 @@
     .fondo-inicial{
         background-image: url(../assets/img/fondo-ini/vestidor.jpeg);
     }
-    .imagen-chica{
-        height: 340px;
-        width: 250px;
-    }
     .card-title{
         font-size: 15px;
     }
@@ -33,5 +29,11 @@
         padding: 0 20px;
         position: relative;
         right: 4.6875rem;
+    }
+    .imagen-accesorio {
+        width: 245px;
+        height: 326px;
+        position: relative;
+        top: 10px;
     }
 }

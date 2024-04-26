@@ -25,6 +25,14 @@
     @import "./layout/mediaQuerry/media768";
 }
 
+@media (max-width: 425px){
+    @import "./layout/mediaQuerry/media425";
+}
+
+@media (max-width: 375px){
+    @import "./layout/mediaQuerry/media375";
+}
+
 @media (max-width: 320px){
     @import "./layout/mediaQuerry/media320";
 }
