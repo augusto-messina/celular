@@ -380,8 +380,8 @@ h3, h5 {
     background-image: url(../assets/img/fondo-ini/vestidor.jpeg);
   }
   .imagen-chica {
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     right: 1px;
     position: relative;
   }
