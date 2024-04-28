@@ -163,6 +163,18 @@
   color: white;
 }
 
+.cuotas {
+  background-color: rgb(201, 36, 36);
+  background-image: url(../assets/img/fondo/cuotas.jpg);
+  background-size: cover;
+  background-position: 0% 50%;
+  height: 200px;
+  width: 1200px;
+  position: relative;
+  left: 350px;
+  margin-bottom: 30px;
+}
+
 /*ropa pag*/
 .titulo-ropa {
   text-align: center;
@@ -386,6 +398,17 @@
     padding: 0 20px;
     position: relative;
     right: 4.6875rem;
+  }
+  .cuotas {
+    background-color: rgb(201, 36, 36);
+    background-image: url(../assets/img/fondo/cuotas.jpg);
+    background-size: cover;
+    background-position: 0% 50%;
+    height: 100px;
+    width: 310px;
+    left: 5px;
+    position: relative;
+    margin-bottom: 50px;
   }
 }
 .pie-pagina {
